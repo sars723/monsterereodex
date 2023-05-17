@@ -53,7 +53,8 @@ const App = () => {
       <CardList monsters={filteredMonsters} />
     </div>
   );
-};                   /* 
+
+};   /* 
 class App extends Component {
   constructor() {
     console.log('constructor');
