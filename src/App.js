@@ -103,5 +103,5 @@ class App extends Component {
     );
   }
 } */
-//jsonplaceholder.typicode.com/monsters
+
 export default App;
